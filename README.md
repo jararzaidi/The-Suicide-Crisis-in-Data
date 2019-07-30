@@ -1,2 +1,15 @@
 # The-Suicide-Crisis-in-Data
-What is the relationship between the age of suicide and the number of suicides? Is one age group more inclined to suicide, or is their correlation? What is the relationship between the sex and the number of suicides? What underlying patterns do we recognize between each of the categories? Which countries are more inclined to suicide? These are just a few of the questions we will be diving into.  Things we will Do:  Peform some basic tasks to explore our dataframe.  Peform some data visualization using Seaborn  Clean / Scrape some data from Kaggle, inorder to answer some questions with it  Feature Engineering which is to create new data columns which help support my data analysis
+
+Brief description of submitted files:
+
+The Suicide Crisis in Data.ipynb
+    - the Notebook (.ipynb) version of this Python project using Seaborn and Pandas
+    
+The Suicide Crisis in Data.py
+    - the Python (.py) version of this Python project using Seaborn and Pandas
+
+who_suicide_statistics.csv
+    - Original dataset used from Kaggle.com. 
+
+
+
