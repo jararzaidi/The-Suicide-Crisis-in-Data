@@ -12,6 +12,8 @@ who_suicide_statistics.csv
     - Original dataset used from Kaggle.com
     
 who_suicide_statistics.xlsx
-    -Dataset from Kaggle.com in Excel Format
+    -Dataset from Kaggle.com in Excel Format, must be converted to Excel format inorder
+    to be used for Tableau Public Data Visualization Software 
+    
 
 
