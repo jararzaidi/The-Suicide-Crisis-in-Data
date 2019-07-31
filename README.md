@@ -15,5 +15,9 @@ who_suicide_statistics.xlsx
     -Dataset from Kaggle.com in Excel Format(.xlsx), must be converted to Excel format inorder
     to be used for Tableau Public Data Visualization Software 
     
+Suicide In Numbers.PDF    
+    - Used Data Tableau Public Software to create a Data Visulaization of the Topics discussed
+    from the Python Notebook
+    
 
 
