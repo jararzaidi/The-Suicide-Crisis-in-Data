@@ -1,6 +1,10 @@
 # The-Suicide-Crisis-in-Data
 
-Brief description of submitted files:
+Author: Jarar Zaidi
+
+Date: 4/8/2019
+
+This project is organized as follows: 
 
 The Suicide Crisis in Data.ipynb
     - the Notebook (.ipynb) version of this Python project using Seaborn and Pandas
@@ -19,5 +23,4 @@ Suicide In Numbers.PDF
     - Used Data Tableau Public Software to create a Data Visulaization of the Topics discussed
     from the Python Notebook
     
-
 
