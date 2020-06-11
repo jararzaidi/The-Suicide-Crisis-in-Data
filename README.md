@@ -10,6 +10,7 @@ This project is organized as follows:
 
 The Suicide Crisis in Data.ipynb
     - the jupyter Notebook (.ipynb) version of this Python project using Seaborn,Pandas,Numpy, Matplolib
+    
        This file is organized as follows: 
        1.Introduction
        2.Data Wrangling
