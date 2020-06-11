@@ -4,6 +4,8 @@ Author: Jarar Zaidi
 
 Date: 6/8/2020
 
+Medium Link to project: https://medium.com/@jararzaidi/the-suicide-crisis-in-data-7025f8551ca8
+
 This project is organized as follows: 
 
 The Suicide Crisis in Data.ipynb
