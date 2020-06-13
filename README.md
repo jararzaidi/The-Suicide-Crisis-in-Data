@@ -1,4 +1,4 @@
-# The-Suicide-Crisis-in-Data
+# Project: Analyzing Suicide Clusters using Exploratory Data Analysis & Machine Learning
 
 Author: Jarar Zaidi
 
